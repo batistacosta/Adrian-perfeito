@@ -1,0 +1,71 @@
+body{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.conteudo-prinncipal{
+    border-radius: 0%;
+    display: flex;
+}
+
+.titulo-principal{
+    font-size: 50px;
+}
+
+:root{
+    background-color: rgb(64, 80, 124);
+}
+
+
+
+.adrian{
+    width: 1000px;
+    height:500px;
+    border-radius: 1000px;
+
+}
+
+.biografia{
+   font-size: large;
+   font-family: sans-serif;
+   color: white;
+   background-color: rgb(28, 28, 83);
+   background:linear-gradient(180deg, rgb(28, 28, 83),rgb(89, 89, 150) );
+
+}
+
+
+.botoes{
+    margin: 10px;
+}
+
+.botao{
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(100, 100, 241);
+    color: white;
+
+}
+
+#beijo{
+    text-decoration: none;
+    color: white;
+}
+
+#lock{
+    text-decoration: none;
+    color: white;
+}
+
+#número{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
